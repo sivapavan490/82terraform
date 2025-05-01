@@ -14,8 +14,12 @@ copy the path of extract file on pc. And paste the path of environmental variabl
 https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 ```
 Above one url will provide the place of downlading aws cli according to our requirment
+            
             (OR)
+
 4.Download and run the AWS CLI MSI installer for Windows (64-bit):
 ```
 https://awscli.amazonaws.com/AWSCLIV2.msi
 ```
+
+5. creating user in IAM ---> USERS ----> CREATE USER ---> ATTACH POLICIES DIRECTLY ---> ADMINISTRATOR ACESS --->  CREATE USER ---> SECURITY CREDENTIALS ---> ACESS KEYS ---> CREATE ACESS KEY ---> (Access key best practices & alternatives) (USE CASE) CLI --->

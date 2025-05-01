@@ -3,3 +3,7 @@
 which terraform
 ```
 for using above cmd it will show the path of the terraform
+
+2.```
+aws configure
+```
